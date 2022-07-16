@@ -1,4 +1,4 @@
-# 👩‍💻 Bootcamp Arquiteto Big Data-IGTI
+# 👩‍💻 Bootcamp Arquiteto Big Data-XPE
 
 Olá, este é meu Repositório de projetos realizados durante a trilha do MBA em Ciência de Dados : Bootcamp Arquiteto de Big Data na IGTI.
 
